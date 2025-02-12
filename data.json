@@ -1,0 +1,12 @@
+[
+    {
+        "name": "jaypal singh",
+        "account_num": 123,
+        "account_balance": 2356
+    },
+    {
+        "name": "Mohit patel",
+        "account_num": 1223,
+        "account_balance": 100
+    }
+]
