@@ -1,8 +1,6 @@
 import sys
 import json
 import os
-from flask import flask
-app = flask(__name__)
 
 class Customer:
     Bank_name = "HDFC Bank"
